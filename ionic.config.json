@@ -1,0 +1,7 @@
+{
+  "name": "jako-ionic-fe",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
